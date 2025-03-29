@@ -172,6 +172,7 @@ mklink /h "C:\硬链接.txt" "D:\目标文件.txt"
 
 ## 如果觉得有用，可以请我喝杯奶茶啊！！（当然不请也没关系啦！）
 
-- ![7e57e9af29a5909f65fcddcf6442f07](https://github.com/user-attachments/assets/8b9278da-4645-461d-875f-b741e98388ac)![1ca4346a1c06be78a9dd2755f5be932](https://github.com/user-attachments/assets/83541cd5-b643-43fa-9974-afa39811605c)
+![image](https://github.com/user-attachments/assets/ea1adcf4-1802-47ca-9cc2-d17f34fffcaa)
+
 
 
