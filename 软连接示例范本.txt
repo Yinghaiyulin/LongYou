@@ -1,0 +1,2 @@
+mklink /j "G:\2\2" "G:\3"
+mklink "G:\2\5.txt" "G:\3\文本文档.txt"
