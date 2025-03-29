@@ -16,8 +16,11 @@
 
 ## 应用截图
 
-![image](https://github.com/user-attachments/assets/774f38c3-8c32-4994-866c-d26d728c19b1)
+![image](https://github.com/user-attachments/assets/5f22fc66-b821-47e6-84a1-e10c817fc610)
 
+![image](https://github.com/user-attachments/assets/3aed8e13-ebea-4cc1-8479-1cbee8cc53cf)
+
+![image](https://github.com/user-attachments/assets/05d0b387-54f9-4411-9ad8-d1661a9d6bbb)
 
 ## 安装使用
 
