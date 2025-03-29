@@ -20,7 +20,7 @@
 
 ![image](https://github.com/user-attachments/assets/3aed8e13-ebea-4cc1-8479-1cbee8cc53cf)
 
-![image](https://github.com/user-attachments/assets/05d0b387-54f9-4411-9ad8-d1661a9d6bbb)
+![image](https://github.com/user-attachments/assets/b4d692a1-535a-4148-9f4c-af3ed805c1f0)
 
 ## 安装使用
 
