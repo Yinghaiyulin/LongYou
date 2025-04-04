@@ -1,9 +1,0 @@
-# 主要GUI依赖
-customtkinter==5.2.0
-Pillow==10.0.0
-
-# Windows特定依赖
-pywin32==305
-
-# 其他依赖
-python-dotenv==1.0.0 
