@@ -1,0 +1,24 @@
+# 主要GUI依赖
+customtkinter==5.2.0
+Pillow==10.0.0
+
+# Windows特定依赖
+pywin32==305
+
+# 系统和线程相关依赖
+# 注意：这些是Python标准库，不需要额外安装
+# threading
+# os
+# sys
+# ctypes
+# json
+# time
+# glob
+# traceback
+# datetime
+# re
+# tempfile
+# shutil
+
+# 其他依赖
+python-dotenv==1.0.0 
