@@ -160,9 +160,7 @@ mklink /h "C:\硬链接.txt" "D:\目标文件.txt"
 - 完整依赖请参见 requirements.txt 文件
 - 支持 PyInstaller 打包为单一可执行文件
 
-## 如果觉得有用，可以请我喝杯奶茶啊！！（当然不请也没关系啦！）
+## 如果觉得有用，可以请我喝杯奶茶啊！！（不请也能给个Starred啦！）
 
-![image](https://github.com/user-attachments/assets/ea1adcf4-1802-47ca-9cc2-d17f34fffcaa)
-
-
+![image](https://github.com/user-attachments/assets/824455e5-923c-47c0-a399-88c2df41d9d2)
 
