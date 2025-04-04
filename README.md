@@ -16,7 +16,7 @@
 
 ## 应用截图
 
-![image](https://github.com/user-attachments/assets/5f22fc66-b821-47e6-84a1-e10c817fc610)
+![image](https://github.com/user-attachments/assets/d00dca97-7da5-469a-876d-47b22d70459e)
 
 ![image](https://github.com/user-attachments/assets/3aed8e13-ebea-4cc1-8479-1cbee8cc53cf)
 
